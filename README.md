@@ -596,14 +596,6 @@ Every new technology expands my perspective.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasEstrela-FullStack&show_icons=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=2563EB&border_color=1E3A5F&rank_icon=github" alt="Lucas GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEstrela-FullStack&layout=compact&theme=transparent&title_color=38BDF8&text_color=94A3B8&icon_color=2563EB&border_color=1E3A5F" alt="Lucas most used languages"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://github.com/stats-organization/github-stats-extended">
 
 <img
