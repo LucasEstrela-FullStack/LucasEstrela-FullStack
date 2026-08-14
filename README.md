@@ -608,7 +608,14 @@ Every new technology expands my perspective.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasEstrela-FullStack&bg_color=0B1220&color=38BDF8&line=2563EB&point=60A5FA&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=LucasEstrela-FullStack&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&rank_icon=github"
+  alt="Lucas Estrela GitHub Stats"
+/>
+
+</a>
 
 </div>
 
