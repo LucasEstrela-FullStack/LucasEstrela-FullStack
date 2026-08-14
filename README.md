@@ -602,17 +602,24 @@ Every new technology expands my perspective.
 
 </div>
 
----
-
-# 📈 Contribution Activity
-
 <div align="center">
 
 <a href="https://github.com/stats-organization/github-stats-extended">
 
 <img
+  height="180"
   src="https://github-stats-extended.vercel.app/api?username=LucasEstrela-FullStack&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&rank_icon=github"
   alt="Lucas Estrela GitHub Stats"
+/>
+
+</a>
+
+<a href="https://github.com/stats-organization/github-stats-extended">
+
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasEstrela-FullStack&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB"
+  alt="Lucas Estrela Top Languages"
 />
 
 </a>
