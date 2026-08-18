@@ -1,607 +1,298 @@
 <div align="center">
 
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:2563EB&height=180&section=header"
+width="100%"
+alt="Header"
+/>
+
 # 🐐 Lucas Abreu Estrela
 
-### Software Engineering Undergraduate · Full Stack & Mobile Developer · AI & Automation
+### Software Engineering Undergraduate · Full Stack & Mobile Developer
 
 <p>
   <a href="https://github.com/LucasEstrela-FullStack">
-    <img src="https://img.shields.io/badge/GitHub-LucasEstrela--FullStack-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Abreu%20Estrela-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:l1abreuestrela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Undergraduate;Full+Stack+%26+Mobile+Developer;AI+%26+Automation+Builder;TypeScript+%7C+Node.js+%7C+React+%7C+Next.js;Cloud+%7C+DevOps+%7C+Software+Architecture" alt="Typing animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=LucasEstrela-FullStack&style=flat-square&color=2563EB" alt="Profile views"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Mobile+Developer;AI+%26+Automation;Cloud+%26+DevOps;Software+Engineering+Student"
+alt="Typing animation"
+/>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **19 years old** and currently building my career in Software Engineering.
+I'm **19 years old**, Software Engineering undergraduate and Full Stack & Mobile Developer.
 
-I'm a Software Engineering undergraduate with a technical background in Systems Development and hands-on experience across **Full Stack development, Mobile applications, enterprise systems, AI integration, automation, Cloud/DevOps, hackathons and technical leadership**.
+I have a technical background in Systems Development and experience with **enterprise systems, ERP, backend, databases, mobile applications, AI, cloud and automation**.
 
-My journey has been built through real challenges:
+I enjoy building products, participating in hackathons and solving real-world problems with technology.
 
-**learning → building → making mistakes → understanding → improving → building again.**
-
-I've had the opportunity to work with enterprise systems and business processes, while also developing personal and hackathon projects where I could explore modern technologies such as **TypeScript, Node.js, React, React Native, Next.js, Docker, databases and AI**.
-
-I'm still at the beginning of my career, and I don't consider myself a Senior Engineer — **there is a lot I still want to learn.**
-
-And that's exactly what motivates me.
-
-> **My goal isn't to know everything. It's to become a better engineer than I was yesterday.**
-
----
-
-## 🚀 My Engineering Journey
-
-My development as an engineer has happened progressively.
-
-```text
-Technical Education
-       │
-       ▼
-Systems Development
-       │
-       ▼
-Enterprise Systems & ERP
-       │
-       ▼
-Backend & Databases
-       │
-       ▼
-Full Stack Development
-       │
-       ▼
-Mobile Development
-       │
-       ▼
-Hackathons & Product Development
-       │
-       ▼
-AI & Automation
-       │
-       ▼
-Cloud & DevOps
-       │
-       ▼
-Technical Leadership
-       │
-       ▼
-Software Architecture & System Design
-       │
-       ▼
-Continuous Growth
-```
-
-Every stage has introduced a new way of thinking about software.
-
-From understanding business rules inside enterprise systems to building applications from scratch, participating in hackathons, leading robotics teams and experimenting with AI, my focus has remained the same:
-
-**learn something new, apply it, understand what went wrong, and improve.**
-
----
-
-## 🎯 Engineering Focus
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 💻
-
-**Full Stack**
-
-</td>
-<td align="center" width="20%">
-
-### 📱
-
-**Mobile**
-
-</td>
-<td align="center" width="20%">
-
-### 🤖
-
-**AI**
-
-</td>
-<td align="center" width="20%">
-
-### ☁️
-
-**Cloud**
-
-</td>
-<td align="center" width="20%">
-
-### ⚙️
-
-**DevOps**
-
-</td>
-</tr>
-</table>
-
-Currently developing deeper knowledge in:
-
-* Software Architecture
-* System Design
-* Backend Engineering
-* AI Integration
-* Cloud Infrastructure
-* DevOps
-* Automation
-* Cybersecurity
+> **Learning. Building. Improving. 🚀**
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+## 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,php,python,java,mysql" alt="Languages"/>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+
 </p>
 
-**TypeScript · JavaScript · PHP · Python · Java · SQL · ADVPL**
+**TypeScript · JavaScript · Python · PHP · Java · SQL · ADVPL**
 
 ---
 
-## Frontend & Mobile
+## 🎨 Frontend & Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind,html,css" alt="Frontend and Mobile"/>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="48" height="48" alt="Expo"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
+
 </p>
 
-**React · Next.js · React Native · Expo · Tailwind CSS · HTML · CSS**
+**React · React Native · Next.js · Expo · Tailwind CSS · HTML · CSS**
 
 ---
 
-## Backend
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastify,laravel" alt="Backend"/>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="48" height="48" alt="Fastify"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel"/>
+
 </p>
 
 **Node.js · Fastify · Express · Laravel**
 
 ---
 
-## Databases & Data
+## 🗄️ Databases & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,prisma" alt="Databases"/>
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" height="48" alt="Prisma"/>
+
 </p>
 
 **PostgreSQL · MySQL · SQLite · Supabase · Prisma · Drizzle ORM · pgvector**
 
 ---
 
-## Cloud, DevOps & Tools
+## ☁️ Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,gitlab,linux,vscode,postman,figma" alt="Cloud DevOps and tools"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" height="36" alt="AWS"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="36" alt="Google Cloud"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36" alt="Docker"/>
+
 </p>
 
-**Docker · AWS · Google Cloud · Git · GitHub · GitLab · Linux · WSL · Postman · Figma**
+**AWS · Google Cloud · Docker**
 
 ---
 
-# 🤖 AI & Automation
+## 🔧 DevOps & Tools
 
-I'm particularly interested in how AI can be integrated into real software products instead of being treated only as a research topic.
+<p align="left">
 
-| Area               | Current Level     | Focus                                          |
-| ------------------ | ----------------- | ---------------------------------------------- |
-| Generative AI      | Working Knowledge | Integrating LLM capabilities into applications |
-| Google Gemini      | Working Knowledge | AI-powered application features                |
-| AI Integration     | Working Knowledge | Connecting AI with software products           |
-| Prompt Engineering | Intermediate      | Better interaction with LLMs                   |
-| AI Automation      | Exploring         | Automating repetitive workflows                |
-| Embeddings         | Exploring         | Semantic search and contextual information     |
-| Vector Databases   | Exploring         | AI-oriented data retrieval                     |
-| AI + Mobile        | Working Knowledge | AI features inside mobile applications         |
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36" alt="Git"/>
 
-### My approach to AI
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="36" alt="GitHub"/>
 
-```text
-Problem
-  ↓
-Understand the context
-  ↓
-Evaluate whether AI actually adds value
-  ↓
-Integrate AI into the product
-  ↓
-Test the result
-  ↓
-Iterate
-```
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="36" alt="GitLab"/>
 
-I don't position myself as an AI researcher.
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="36" alt="Linux"/>
 
-I'm an engineer **learning how to use AI as part of real software solutions.**
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="36" alt="Postman"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="36" alt="Figma"/>
+
+</p>
+
+**Git · GitHub · GitLab · Linux · WSL · Postman · Figma**
 
 ---
 
-# ⭐ Featured Projects
+## 🤖 AI & Automation
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" alt="Google Gemini"/>
+
+<img src="https://img.shields.io/badge/AI%20Automation-0B1220?style=for-the-badge&logo=google&logoColor=white" height="36" alt="AI Automation"/>
+
+<img src="https://img.shields.io/badge/LLM-0B1220?style=for-the-badge" height="36" alt="LLM"/>
+
+</p>
+
+**Google Gemini · LLM Integration · Prompt Engineering · Embeddings · AI Automation**
+
+---
+
+# 🚀 Featured Projects
 
 ## 🛰️ AirMetrics
 
-> **Interactive air-quality monitoring application developed for NASA Space Apps Challenge 2025.**
+Air-quality monitoring application developed for the **NASA Space Apps Challenge 2025**.
 
-AirMetrics combines environmental information, interactive maps, mobile UX, gamification and AI to make air-quality information easier to understand.
+**React Native · Expo · TypeScript · Google Gemini · Maps**
 
-### Engineering
+🏆 **2nd Place — NASA Space Apps Challenge Cuiabá 2025**
 
-* React Native + Expo
-* TypeScript
-* React Navigation
-* React Native Maps
-* Expo Location
-* Expo Notifications
-* Reusable components
-* Service-oriented organization
-* Google Gemini AI integration
-
-### AI Integration
-
-The application uses Google Gemini for capabilities including:
-
-* Contextual responses
-* Environmental data analysis
-* Sentiment detection
-* Automatic tagging
-* Research summarization
-* AI-generated insights
-
-### Recognition
-
-🏆 **NASA Space Apps Challenge 2025 — Cuiabá**
-
-### Repository
-
-<a href="https://github.com/LucasEstrela-FullStack/AirMetrics">View AirMetrics on GitHub →</a>
+<a href="https://github.com/LucasEstrela-FullStack/AirMetrics">
+  <img src="https://img.shields.io/badge/View%20Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="AirMetrics Repository"/>
+</a>
 
 ---
 
 ## 🌱 AgroPulse
 
-> **Smart agricultural intelligence platform combining Earth Observation, AI and geospatial data.**
+Agricultural intelligence platform combining **satellite data, AI and geospatial analysis**.
 
-Developed for the **CopernicusLAC Panama Hackathon 2026 — Food Security Edition**.
-
-AgroPulse explores how satellite information can be transformed into actionable intelligence for agricultural decision-making.
-
-### Engineering Focus
-
-* Copernicus Sentinel data
-* Artificial Intelligence
-* Predictive analytics
-* Geospatial technologies
-* Agricultural intelligence
-* Climate-risk analysis
-* Resource optimization
-
-### Architecture Direction
-
-```text
-Satellite Data
-      ↓
-Data Processing
-      ↓
-Geospatial Analysis
-      ↓
-AI / Predictive Intelligence
-      ↓
-Actionable Agricultural Insights
-```
-
-### Recognition
+**Copernicus · AI · Geospatial Data · Predictive Analysis**
 
 🌎 **CopernicusLAC Panama Hackathon 2026**
 
-### Repository
+<a href="https://github.com/LucasEstrela-FullStack/AgroPulse">
+  <img src="https://img.shields.io/badge/View%20Repository-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="AgroPulse Repository"/>
+</a>
 
-<a href="https://github.com/LucasEstrela-FullStack/AgroPulse">View AgroPulse on GitHub →</a>
+---
+
+## 🧠 NeuroHook
+
+Project focused on **AI integration, automation and intelligent software workflows**.
+
+**TypeScript · Node.js · AI · Automation**
+
+<a href="https://github.com/LucasEstrela-FullStack">
+  <img src="https://img.shields.io/badge/View%20Projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="NeuroHook"/>
+</a>
 
 ---
 
 ## 💪 StreakFiT
 
-> **Full Stack project focused on fitness and user engagement.**
+Full Stack application focused on fitness and user engagement.
 
-### Engineering Focus
+**Node.js · TypeScript · React · Next.js · PostgreSQL · Prisma · Docker**
 
-* Full Stack architecture
-* REST APIs
-* TypeScript
-* Node.js
-* React
-* Next.js
-* PostgreSQL
-* Prisma
-* Docker
-
-### What I'm learning through the project
-
-* API design
-* Database modeling
-* Authentication
-* Frontend/backend integration
-* Containerization
-* Project organization
-
-<a href="https://github.com/LucasEstrela-FullStack">View projects on GitHub →</a>
+<a href="https://github.com/LucasEstrela-FullStack">
+  <img src="https://img.shields.io/badge/View%20Projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="StreakFiT"/>
+</a>
 
 ---
 
-## 💍 Casar-QR
+# 💼 Experience
 
-> **Web application focused on event management, registration and QR-code-based confirmation.**
+### Enterprise Systems & ERP
 
-### Engineering Focus
+Experience with:
 
-* Web application architecture
-* PostgreSQL / Supabase
-* Authentication and authorization
-* Role-based access
-* QR Code generation
-* Event management
-* Data modeling
+**TOTVS Protheus · ADVPL · SQL · Backend · Git · GitLab**
 
-The project also explores role separation between different types of users and administrative responsibilities.
-
-<a href="https://github.com/LucasEstrela-FullStack">View projects on GitHub →</a>
-
----
-
-# 💼 Professional Experience
-
-## Enterprise Systems & Software Development
-
-My professional experience introduced me to a different side of software engineering:
-
-**software is not only code — it is also business rules, data, processes and reliability.**
-
-I've worked with enterprise systems and business processes involving:
-
-* TOTVS Protheus
-* ADVPL
-* SQL
-* Backend systems
+* Business rules
 * Database support
 * Debugging
-* Business rules
 * Financial processes
-* Git / GitLab
-* Troubleshooting
 * Systems maintenance
+* Backend development
 
-This experience helped me understand how software operates inside real organizations, where technical decisions directly affect business processes.
-
-### What this taught me
-
-```text
-Code
- +
-Business Rules
- +
-Data
- +
-Processes
- +
-Reliability
- =
-Real Software
-```
+> Software needs to solve real business problems — not just compile.
 
 ---
 
-# 🤖 Robotics & Technical Leadership
+# 🏆 Achievements
 
-My experience with **FIRST Robotics** was one of the environments where I learned that engineering is fundamentally collaborative.
-
-I participated in technical leadership involving:
-
-* Programming
-* Electronics
-* Technical coordination
-* Team development
-* Problem solving
-* Engineering iteration
-* Communication
-* Working under time constraints
-
-### 2024 Results
-
-🏆 **TuiuTech 9604 — 3rd nationally**
-
-🏆 **MTech 9603 — 21st nationally**
-
-Beyond the competition results, robotics taught me something that continues to influence how I approach software:
-
-> **A good technical solution means little if the team cannot build, understand and improve it together.**
+* 🥈 **NASA Space Apps Challenge 2025** — AirMetrics
+* 🌎 **CopernicusLAC Panama Hackathon 2026** — AgroPulse
+* 🚀 **Hacker Hero 2026**
+* 💡 **SEBRAE Hacking 2026**
+* 🤖 **FIRST Robotics 2024** — TuiuTech 9604 — 3rd nationally
+* 🤖 **FIRST Robotics 2024** — MTech 9603 — 21st nationally
 
 ---
 
-# 🏆 Hackathons & Achievements
+# 📚 Certifications
 
-| Recognition                            | Project / Context              |
-| -------------------------------------- | ------------------------------ |
-| 🥈 NASA Space Apps Challenge 2025      | AirMetrics                     |
-| 🌎 CopernicusLAC Panama Hackathon 2026 | AgroPulse                      |
-| 🚀 Hacker Hero 2026                    | Hackathon participation        |
-| 💡 Sebrae Hacking 2026                 | Hackathon participation        |
-| 🤖 FIRST Robotics 2024                 | TuiuTech 9604 — 3rd nationally |
-| 🤖 FIRST Robotics 2024                 | MTech 9603 — 21st nationally   |
+<p align="left">
 
-Hackathons have been particularly important in my development because they force me to combine:
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Essentials"/>
 
-**technical skills + product thinking + communication + teamwork + time management.**
+<img src="https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Project Management"/>
 
----
+<img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity"/>
 
-# 📚 Certifications & Continuous Learning
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0B1220?style=flat-square" alt="Prompt Engineering"/>
 
-I believe that becoming a better engineer requires learning outside the code editor as well.
+<img src="https://img.shields.io/badge/Scrum%20Foundation-0B1220?style=flat-square" alt="Scrum Foundation"/>
 
-### Google
+<img src="https://img.shields.io/badge/Technical%20Leadership-0B1220?style=flat-square" alt="Technical Leadership"/>
 
-* Google AI Essentials
-* Google Project Management
-* Fundamentals of Cybersecurity
-
-### Software Development
-
-* React development
-* Mobile development
-* Prompt Engineering
-* Scrum Foundation
-* Remote Work Professional
-
-### Leadership
-
-* Technical Leadership
-* Tech Lead foundations
-* Platform
-* Product
-* Process
-* People
-
-I don't see certifications as the destination.
-
-They are part of the process of building stronger foundations.
+</p>
 
 ---
 
-# 🧠 Engineering Principles
-
-> ### Good software isn't simply software that works.
-
-For me, good engineering means trying to build software that:
-
-* Solves the right problem
-* Is understandable
-* Can be maintained
-* Is secure
-* Can evolve
-* Makes sense for the people using it
-* Creates real value
-
-I'm still learning how to do all of this well.
-
-That's part of the journey.
-
----
-
-# 📈 Current Status
-
-```yaml
-engineering_status:
-  age: 19
-  role: "Software Engineering Undergraduate"
-  career_stage: "Early Career"
-  mindset: "Continuous Improvement"
-
-focus:
-  - "Full Stack Development"
-  - "Mobile Engineering"
-  - "AI Integration"
-  - "Automation"
-  - "Cloud & DevOps"
-
-currently_learning:
-  - "Software Architecture"
-  - "System Design"
-  - "Backend Engineering"
-  - "AI Engineering"
-  - "Cloud Infrastructure"
-
-currently_exploring:
-  - "Cybersecurity"
-  - "Vector Databases"
-  - "AI Automation"
-  - "DevOps"
-  - "Scalable Systems"
-
-open_to:
-  - "Software Engineering opportunities"
-  - "Full Stack opportunities"
-  - "Mobile Development"
-  - "AI & Automation projects"
-  - "Technical challenges"
-```
-
----
-
-# 🌱 My Growth Mindset
-
-I'm not trying to create the impression that I already know everything.
-
-**I don't.**
-
-I'm 19, I'm early in my career, and there are many technologies, concepts and engineering challenges that I still need to learn.
-
-But I have something I consider just as important:
-
-**the willingness to keep improving.**
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Make mistakes
-  ↓
-Understand
-  ↓
-Improve
-  ↓
-Build better
-```
-
-Every project gives me something new.
-
-Every difficult bug teaches me something.
-
-Every hackathon exposes a weakness.
-
-Every team teaches me something about communication.
-
-Every new technology expands my perspective.
-
-### The goal is simple:
-
-> **Be a better engineer tomorrow than I am today.**
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/stats-organization/github-stats-extended">
 
 <img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api?username=LucasEstrela-FullStack&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&rank_icon=github"
-  alt="Lucas Estrela GitHub Stats"
+height="180"
+src="https://github-stats-extended.vercel.app/api?username=LucasEstrela-FullStack&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&rank_icon=github"
+alt="GitHub Stats"
 />
 
 </a>
@@ -609,9 +300,9 @@ Every new technology expands my perspective.
 <a href="https://github.com/stats-organization/github-stats-extended">
 
 <img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasEstrela-FullStack&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB"
-  alt="Lucas Estrela Top Languages"
+height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasEstrela-FullStack&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1"
+alt="Top Languages"
 />
 
 </a>
@@ -625,21 +316,22 @@ Every new technology expands my perspective.
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake.svg"
-  />
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake-dark.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/LucasEstrela-FullStack/LucasEstrela-FullStack/output/github-snake.svg"
+ width="100%"
+ alt="GitHub Contribution Snake"
+/>
 
 </picture>
 
@@ -647,40 +339,40 @@ Every new technology expands my perspective.
 
 ---
 
-# 🤝 Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/LucasEstrela-FullStack">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
+
+  
+
 <a href="https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
+
+  
+
 <a href="mailto:l1abreuestrela@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/LucasEstrela-FullStack">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/">LinkedIn</a>
-  ·   <a href="mailto:l1abreuestrela@gmail.com">Email</a>
+ ·  <a href="https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/">LinkedIn</a>
+ ·  <a href="mailto:l1abreuestrela@gmail.com">Email</a>
+
+<br/><br/>
+
+**Building. Learning. Improving. 🚀**
 
 </div>
 
----
-
-<div align="center">
-
-### Building. Learning. Improving.
-
-**I'm still at the beginning of the journey — and that's what makes the journey exciting.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:2563EB&height=120&section=footer" alt="Footer"/>
-
-</div>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0B1220&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
