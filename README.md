@@ -6,9 +6,11 @@ width="100%"
 alt="Header"
 />
 
-# 🐐 Lucas Abreu Estrela
+<img src="assets/shinji-hirako.jpg" width="140" alt="Shinji Hirako"/>
 
-### Software Engineering Undergraduate · Full Stack, Mobile & AI Developer
+# Lucas Abreu Estrela
+
+### Full Stack, Mobile & AI Developer · Software Engineering student
 
 <p>
   <a href="https://github.com/LucasEstrela-FullStack">
@@ -16,6 +18,9 @@ alt="Header"
   </a>
   <a href="https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/">
     <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lucas-estrela.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:l1abreuestrela@gmail.com">
     <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -30,36 +35,33 @@ alt="Typing animation"
 <br/>
 
 <blockquote>
-  <h3>“<i>Software needs to solve real business problems — not just compile.</i>”</h3>
+  <h3>"<i>Software has to solve real business problems.</i>"</h3>
 </blockquote>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
-I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile & AI Developer.
+I'm 19, studying Software Engineering at Fatec Senai Mato Grosso and working as a Full Stack Developer in Cuiabá, Brazil.
 
-➤ 💻 Building full stack products with **TypeScript, Next.js and Node.js**.
+- I build full stack products with TypeScript, Next.js and Node.js.
+- I run local LLMs, RAG pipelines and AI agents with Ollama, LangChain and AWS Bedrock.
+- I have experience maintaining and customizing TOTVS Protheus systems in production (ADVPL, SQL, REST APIs).
+- I compete in hackathons, robotics and programming competitions: NASA Space Apps, CopernicusLAC and FIRST.
 
-➤ 🤖 Running **local LLMs, RAG pipelines and AI agents** (Ollama, LangChain, AWS Bedrock).
-
-➤ 🏢 Working with **enterprise systems and ERP** (TOTVS Protheus · ADVPL · SQL).
-
-➤ 🏆 Competing in **hackathons** and robotics — NASA Space Apps, CopernicusLAC, FIRST.
-
-> **Learning. Building. Improving. 🚀**
+Portuguese (native) · English (intermediate, advanced technical reading)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 ### 💻 Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,php,cs,html,css,bash,powershell&perline=10" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,php,cs,html,css,bash,powershell&perline=11" alt="Languages"/>
   </a>
 </p>
 
@@ -68,7 +70,9 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/ADVPL%20·%20TOTVS%20Protheus-0B1220?style=flat-square" alt="ADVPL"/>
 </p>
 
-### 🎨 Frontend & Mobile
+<p align="center">Object-Oriented Programming · Strong Typing · Scripting & Automation · ERP Customization</p>
+
+### 🎨 Frontend & mobile
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,7 +87,9 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/TanStack%20Query-0B1220?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query"/>
 </p>
 
-### ⚙️ Backend & Microservices
+<p align="center">SSR & Server Components · Responsive UI · Dashboards · Mobile Apps · Unit Testing</p>
+
+### ⚙️ Backend & microservices
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -98,7 +104,10 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/OpenTelemetry-0B1220?style=flat-square&logo=opentelemetry&logoColor=F5A800" alt="OpenTelemetry"/>
   <img src="https://img.shields.io/badge/Jaeger-0B1220?style=flat-square&logo=jaeger&logoColor=66CFE3" alt="Jaeger"/>
   <img src="https://img.shields.io/badge/Swagger-0B1220?style=flat-square&logo=swagger&logoColor=85EA2D" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Puppeteer-0B1220?style=flat-square&logo=puppeteer&logoColor=40B5A4" alt="Puppeteer"/>
 </p>
+
+<p align="center">REST APIs · Microservices · Messaging · API Gateway · Observability · Webhooks · OAuth 2.0 · System Integrations</p>
 
 ### 🗄️ Databases & ORMs
 
@@ -109,11 +118,14 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-0B1220?style=flat-square" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/Drizzle%20ORM-0B1220?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM"/>
   <img src="https://img.shields.io/badge/pgvector-0B1220?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="pgvector"/>
 </p>
 
-### 🤖 AI, ML & Data
+<p align="center">Data Modeling · Migrations · Vector Search · Caching · Data Normalization</p>
+
+### 🤖 AI, ML & data
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -133,7 +145,7 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/Pandas-0B1220?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-**RAG · Embeddings · AI Agents · Prompt Engineering · Vision Transformers · Local LLMs**
+<p align="center">RAG · Embeddings · AI Agents · Prompt Engineering · Vision Transformers · Local LLMs</p>
 
 ### ☁️ Cloud & DevOps
 
@@ -148,17 +160,21 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/WSL-0B1220?style=flat-square&logo=linux&logoColor=FCC624" alt="WSL"/>
 </p>
 
+<p align="center">Containers · CI/CD · Infrastructure as Code · Cloud Deploys · Linux Environments</p>
+
 ### 🔧 Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,npm,windows&perline=10" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,postman,figma,npm,windows&perline=10" alt="Tools"/>
   </a>
 </p>
 
+<p align="center">Version Control · API Testing & Documentation · UI Prototyping · Code Review</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured projects
 
 <div align="center">
 <table border="0">
@@ -168,7 +184,7 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
         <img src="https://github-stats-extended.vercel.app/api/pin/?username=LucasEstrela-FullStack&repo=AirMetrics&theme=dark&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB" width="400" alt="AirMetrics"/>
       </a>
       <br/>
-      🥈 <b>2nd Place — NASA Space Apps Cuiabá 2025</b>
+      🥈 <b>2nd place, NASA Space Apps Cuiabá 2025</b>
     </td>
     <td valign="top">
       <a href="https://github.com/LucasEstrela-FullStack/AgroPulse">
@@ -233,24 +249,41 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
 
 ## 💼 Experience
 
-### Enterprise Systems & ERP
+**Full Stack Developer · WCOGEO** · Aug 2026 to present
 
-**TOTVS Protheus · ADVPL · SQL · Backend · Git · GitLab**
+Internal tools, integrations and automation for geotechnology and data management. I built a monitoring platform that collects and normalizes records into PostgreSQL, with a Fastify API and a React dashboard. I also automated the transfer of geographic data between the cloud and internal storage using OAuth 2.0, streaming and checksums, and I generate illustrated manuals for Web GIS platforms with Node.js and Puppeteer. Environments run on Docker Compose with migrations, automated tests and CI.
 
-* Business rules and financial processes
-* Database support and debugging
-* Systems maintenance and backend development
+**Systems Analyst · oneinsight** · Apr 2026 to Jul 2026
+
+Functional testing and REST API validation, bug reports, and patches built in staging before going to production. Postman, Git, GitLab and Bitbucket.
+
+**Systems Support Assistant · Agro Amazônia** · Jan 2026 to Mar 2026<br/>
+**IT Systems Apprentice · Agro Amazônia** · Nov 2024 to Jan 2026
+
+Maintenance of the company's TOTVS Protheus systems: REST API fixes, debugging, database support, patches and production deploys, versioned with Git and GitLab. I started as an apprentice and moved into support work closer to development.
+
+**Electronics Lead & Systems Developer · FIRST Robotics** · Oct 2023 to Dec 2024
+
+Java code for autonomous and teleoperated robot control, sensor and actuator integration, and the team's electrical systems. I took part in creating and growing teams MTech 9603 and TuiuTech 9604.
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 **NASA Space Apps Challenge 2025** — AirMetrics
-* 🌎 **CopernicusLAC Panama Hackathon 2026** — AgroPulse
-* 🔐 **Hacker Hero 2026** — Vaultix Security
-* 💡 **SEBRAE Hacking 2026**
-* 🤖 **FIRST Robotics 2024** — TuiuTech 9604 — 3rd nationally
-* 🤖 **FIRST Robotics 2024** — MTech 9603 — 21st nationally
+* 🥈 NASA Space Apps Challenge 2025: 2nd place in Cuiabá with AirMetrics
+* 🌎 CopernicusLAC Panama Hackathon 2026: AgroPulse
+* 🔐 Hacker Hero 2026: Vaultix Security
+* 💡 SEBRAE Hacking 2026
+* 🤖 FIRST Robotics 2024: TuiuTech 9604, 3rd nationally
+* 🤖 FIRST Robotics 2024: MTech 9603, 21st nationally
+
+---
+
+## 🎓 Education
+
+* B.Sc. in Software Engineering, Fatec Senai Mato Grosso (2026 to 2029, in progress)
+* Technical degree in Systems Analysis and Development, Fatec Senai Mato Grosso (2022 to 2024)
+* High school with integrated technical course, Sesi Cuiabá (2022 to 2024)
 
 ---
 
@@ -260,6 +293,9 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
   <img src="https://img.shields.io/badge/Google%20AI%20Essentials-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Essentials"/>
   <img src="https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Project Management"/>
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Linux%20%26%20SQL-0B1220?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux and SQL"/>
+  <img src="https://img.shields.io/badge/NLW%20Pocket%20Mobile%20·%20Kotlin-0B1220?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="NLW Pocket Mobile Kotlin"/>
+  <img src="https://img.shields.io/badge/Forma%C3%A7%C3%A3o%20React-0B1220?style=flat-square&logo=react&logoColor=61DAFB" alt="Formação React"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-0B1220?style=flat-square" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Scrum%20Foundation-0B1220?style=flat-square" alt="Scrum Foundation"/>
   <img src="https://img.shields.io/badge/Technical%20Leadership-0B1220?style=flat-square" alt="Technical Leadership"/>
@@ -267,7 +303,7 @@ I'm **19 years old**, Software Engineering undergraduate and Full Stack, Mobile 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -291,7 +327,23 @@ alt="Top Languages"
 
 ---
 
-## 🐍 Contribution Snake
+## 🎧 Recently played
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/6h423oypeo50h4jdld5svgi4z">
+<img
+src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=6h423oypeo50h4jdld5svgi4z&duration=1&footer=wave&bg_color=080b12&text_color=e6edf7&artist_color=94a8c6&meta_color=7185a3&accent_color=1e40af&logo_color=3b82f6"
+alt="Spotify recently played"
+width="400"
+/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution snake
 
 <div align="center">
 
@@ -319,7 +371,7 @@ alt="Top Languages"
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&height=80&lines=%F0%9F%91%8B+Thanks+for+coming!)](https://github.com/LucasEstrela-FullStack)
 
-[GitHub](https://github.com/LucasEstrela-FullStack) · [LinkedIn](https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/) · [Email](mailto:l1abreuestrela@gmail.com)
+[GitHub](https://github.com/LucasEstrela-FullStack) · [LinkedIn](https://www.linkedin.com/in/lucas-abreu-estrela-28b229307/) · [Portfolio](https://lucas-estrela.vercel.app/) · [Email](mailto:l1abreuestrela@gmail.com)
 
 </div>
 
